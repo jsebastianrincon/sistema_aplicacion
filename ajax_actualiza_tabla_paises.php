@@ -8,7 +8,8 @@
 
  <?php
     // Incluir la conexión a la base de datos y cualquier configuración necesaria
-    ///Este es el ajax de actualizacion dinamica
+    ///Este es el ajax de actualizacion dinamica comentario desde local a hostinger
+
     include 'conexion/conexion.php';
 
     $consulta_paises = $mysqli->query("SELECT * FROM paises WHERE estado = 1 ORDER BY identificador");
