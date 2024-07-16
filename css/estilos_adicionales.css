@@ -1,0 +1,24 @@
+.button-container {
+    display: flex;
+    gap: 10px;
+    /* Espacio entre los botones */
+    flex-wrap: wrap;
+    /* Permite que los botones se envuelvan en líneas en pantallas pequeñas */
+}
+
+.button-container button {
+    padding: 10px 20px;
+    font-size: 12px;
+    cursor: pointer;
+    border: none;
+}
+
+
+@media screen and (max-width: 600px) {
+    .button-container {
+        flex-direction: column;
+        /* Coloca los botones en una columna en pantallas pequeñas */
+        gap: 5px;
+        /* Reduce el espacio entre los botones en pantallas pequeñas */
+    }
+}
