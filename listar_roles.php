@@ -73,7 +73,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
     <div id="page-wrapper">
       <div class="main-page">
         <div class="tables">
-          <h2 class="title1">ROLES</h2>
+          <h2 class="title1">ROLES ACTIVOS</h2>
           <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModal"><i class="fa fa-plus"></i> Agregar Rol</button>
 
 
