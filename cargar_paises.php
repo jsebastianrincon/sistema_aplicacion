@@ -86,7 +86,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                     <div class="user_img"><img src="images/1.jpg" alt=""></div>
                     <div class="notification_desc">
                       <p>Lorem ipsum dolor amet</p>
-                      <p><span>1 hour ago</span></p>
+                      <p><span>1 hour agoo</span></p>
                     </div>
                     <div class="clearfix"></div>
                   </a></li>
