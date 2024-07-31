@@ -10,7 +10,7 @@
  <?php
     // Incluir la conexión a la base de datos y cualquier configuración necesaria
     include 'conexion/conexion.php';
-
+    ///Ajax para actualizar dinamicamente la tabla de roles 
     $consulta_roles = $mysqli->query("SELECT * FROM roles WHERE estado = 1 ORDER BY identificador");
     while ($extraer_roles = $consulta_roles->fetch_array()) {
     ?>
